@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
+## Sitemap
+
+| Page                  | Path            |
+| --------------------- | --------------- |
+| /                     | Home            |
+| /store                | Products        |
+| /store/:id            | Product details |
+| /cart                 | Cart            |
+| /checkout             | Checkout        |
+| /auth/login           | Login           |
+| /auth/register        | Register        |
+| /auth/forgot-password | Forgot password |
+| /auth/reset-password  | Reset password  |
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
